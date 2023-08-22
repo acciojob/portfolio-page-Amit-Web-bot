@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+#profile_pic{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+}
+.header{
+	display:inline-block;
+	margin: 10px
+}
